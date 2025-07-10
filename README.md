@@ -9,4 +9,5 @@ PostgreSQL JDBC Driver: For connecting to the PostgreSQL database. org.postgresq
 
 Java Development Kit (JDK) 17 or higher. Apache Maven 3.8.6 or higher. PostgreSQL 15 or higher. create PostgreSQL database with the following table: CREATE TABLE customersdetails (  postidentity,ressidensial address null details); Contact For any questions or feedback, feel free to reach out:
 
-Your Name : Bane RupeshEmail: banerupesh716@gmail.com GitHub BANE RUPESH Team Member: Name:pankaj khillare Email:khillarepankaj436@gmail.com GitHub:
+Your Name : Bane RupeshEmail: banerupesh716@gmail.com GitHub BANE RUPESH Team Member: Name:pankaj khillare Email:khillarepankaj436@gmail.com GitHub,NameAbdul Muqtsid:amuqsit279@gmail.com.
+
